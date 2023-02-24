@@ -1,8 +1,10 @@
-# Membuat Website Company Profile
+# EKSTRAKURIKULER IT - SMA BCISCHOOL, Grand Depok City
 
-## EKSTRAKURIKULER IT - SMA BCISCHOOL, GRAND DEPOK CITY
+## Membuat Website Company Profile
+Repositori ini digunakan untuk mendokumentasikan pembelajaran pembuatan website company profile pada kegiatan Ekstrakurikuler IT di SMA BCISCHOOL Grand Depok City, Kota Depok - Jawa Barat.
 
-### Instalasi
+
+## Instalasi
 ```
-git colne https://github.com/lighthinkstudio/eskul-bci.git
+git colne https://github.com/lighthinkstudio/eskul-bci.git nama_folder_project
 ```
