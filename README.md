@@ -4,17 +4,17 @@ Repositori ini digunakan untuk mendokumentasikan pembelajaran pembuatan website 
 
 ## Instalasi
 ```
-git colne https://github.com/lighthinkstudio/eskul-bci.git
+git clone https://github.com/lighthinkstudio/eskul-bci.git
 ```
 #### Contoh:
 ```
-git colne https://github.com/lighthinkstudio/eskul-bci.git
+git clone https://github.com/lighthinkstudio/eskul-bci.git
 ```
 Perintah di atas akan membuat default folder project dengan nama eskul-bci
 <br/><br/>
 
 ```
-git colne https://github.com/lighthinkstudio/eskul-bci.git eskul-it
+git clone https://github.com/lighthinkstudio/eskul-bci.git eskul-it
 ```
 Perintah di atas akan membuat folder project dengan nama eskul-it
 <br/><br/>
