@@ -2,28 +2,20 @@
 Repositori ini digunakan untuk mendokumentasikan pembelajaran pembuatan website company profile pada kegiatan Ekstrakurikuler IT Tahun Ajaran 2022/2023 di SMA BCISCHOOL Grand Depok City, Kota Depok - Jawa Barat.
 <br/><br/>
 
+
 ## Instalasi
 ```
 git clone https://github.com/lighthinkstudio/eskul-bci.git
-```
-#### Contoh:
-```
-git clone https://github.com/lighthinkstudio/eskul-bci.git
-```
-Perintah di atas akan membuat default folder project dengan nama eskul-bci
-<br/><br/>
 
+cd eskul-bci
+
+composer update
 ```
-git clone https://github.com/lighthinkstudio/eskul-bci.git eskul-it
-```
-Perintah di atas akan membuat folder project dengan nama eskul-it
-<br/><br/>
+
 
 ## Sumber daya
-[Laravel](https://laravel.com)
+[Laravel 8.x](https://laravel.com), [AdminLTE-3](https://adminlte.io/themes/v3) dan [Lumia](https://bootstrapmade.com/lumia-bootstrap-business-template)
 
-[AdminLTE 3](https://adminlte.io/themes/v3)
 
-[Lumia](https://bootstrapmade.com/lumia-bootstrap-business-template)
 ## License
 Eskul BCI is only for learning and it is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
