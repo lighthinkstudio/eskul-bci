@@ -1,8 +1,5 @@
 ## EKSTRAKURIKULER IT - SMA BCISCHOOL, Grand Depok City
-
-## Membuat Website Company Profile
 Repositori ini digunakan untuk mendokumentasikan pembelajaran pembuatan website company profile pada kegiatan Ekstrakurikuler IT di SMA BCISCHOOL Grand Depok City, Kota Depok - Jawa Barat.
-
 
 ## Instalasi
 ```
