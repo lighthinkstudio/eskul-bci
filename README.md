@@ -6,9 +6,11 @@ Repositori ini digunakan untuk mendokumentasikan pembelajaran pembuatan website 
 ## Instalasi
 ```
 git clone https://github.com/lighthinkstudio/eskul-bci.git
-
+```
+```
 cd eskul-bci
-
+```
+```
 composer update
 ```
 
